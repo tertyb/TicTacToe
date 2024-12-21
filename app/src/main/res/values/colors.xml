@@ -7,4 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#FFFFFF</color>  <!-- White background -->
+    <color name="x_color">#FF0000</color>  <!-- Red for X -->
+    <color name="o_color">#0000FF</color>  <!-- Blue for O -->
+    <color name="button_color">#DDDDDD</color>  <!-- Light grey for buttons -->
 </resources>
